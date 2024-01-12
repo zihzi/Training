@@ -1,0 +1,2 @@
+var str = "chiikawa saikou";
+
