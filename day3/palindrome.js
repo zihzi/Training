@@ -3,9 +3,14 @@ let checkStringB = "raceacar";
 
 function isPalindrome(inputString) {
   // 完成此 function
-  for (let i = 0; i < inputString.length / 2; i++) {
-    if (inputString[i] !== inputString[inputString.length - 1 - i]) {
+  let i = 0;
+  let j = inputString.length - 1;
+  while (i < j) {
+    if (inputString[i] !== inputString[j]) {
       return false;
+    } else {
+      i++;
+      j--;
     }
   }
   return true;

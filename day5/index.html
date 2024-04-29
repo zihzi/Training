@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>d3Chart</title>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+  </head>
+  <body>
+    <p class="title">
+       Scatter Plot - Iris
+    </p>
+    <div class="Axis">xAxis:
+      <select id="xAxisOpt">
+        <option>sepal length</option>
+        <option>sepal width</option> 
+        <option>petal length</option>
+        <option>petal width</option>
+      </select>
+    </div> 
+    <div class="Axis">yAxis:
+      <select id="yAxisOpt">
+        <option>sepal length</option>
+        <option>sepal width</option> 
+        <option>petal length</option>
+        <option>petal width</option>
+      </select>
+    </div>
+    <div id="container"></div>
+    <script src="ScatterPlot.js" type="module" defer></script>
+
+  </body>
+</html>

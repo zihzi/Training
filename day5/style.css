@@ -1,0 +1,22 @@
+.title {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 20px;
+}
+svg{
+    font-weight: bold;
+    font-size: 10px;
+    
+}
+
+.Axis{
+     margin-left: 70px;
+}
+/* Selector: selector identifies the type of format you want to format. 
+A browser will hunt down all the parts of a web page that match the selector.
+
+Property: property identities the type of formatting you want to apply, 
+like color, fonts, alignment, or something else.
+
+Value: value sets a value for the property defined above. For instance, 
+if your property is alignment, the value could be align center or align left. */

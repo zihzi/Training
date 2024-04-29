@@ -1,0 +1,1074 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [141.43359375, 40.512199401855504]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "HACHINOHE",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [141.2841990661556, 40.253459449765984]
+            },
+            "properties": { "f_code": "AQ125", "nam": "NINOHE", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [141.2223595486909, 39.96241585482455]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "IWATENUMAKUNAI",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [141.14149475097702, 39.69653320312504]
+            },
+            "properties": { "f_code": "AQ125", "nam": "MORIOKA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.482299804688, 39.46413040161129]
+            },
+            "properties": { "f_code": "AQ125", "nam": "OMAGARI", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.12950134277304, 39.711067199707024]
+            },
+            "properties": { "f_code": "AQ125", "nam": "AKITA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [141.17341613769503, 39.405055999755874]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINHANAMAKI",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [141.12359619140602, 39.2812004089355]
+            },
+            "properties": { "f_code": "AQ125", "nam": "KITAKAMI", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [141.18949890136696, 39.14566421508791]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "MIZUSAWAESASHI",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [141.13905334472696, 38.92284393310554]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "ICHINOSEKI",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [141.07020026675804, 38.746046096495526]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "KURIKOMAKOGEN",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.96859741210903, 38.57106781005861]
+            },
+            "properties": { "f_code": "AQ125", "nam": "FURUKAWA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.88240051269497, 38.25953292846684]
+            },
+            "properties": { "f_code": "AQ125", "nam": "SENDAI", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.62971572816951, 37.990699478468045]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHIROISHIZAO",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.45829772949202, 37.75433349609384]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "FUKUSHIMA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.1274916711277, 37.914441520287795]
+            },
+            "properties": { "f_code": "AQ125", "nam": "YONEZAWA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.32789611816403, 38.24800109863277]
+            },
+            "properties": { "f_code": "AQ125", "nam": "YAMAGATA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.30793498871503, 38.7541915481899]
+            },
+            "properties": { "f_code": "AQ125", "nam": "SHINJO", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.38830566406304, 37.3934669494629]
+            },
+            "properties": { "f_code": "AQ125", "nam": "KORIYAMA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.18642536696984, 37.119950607501245]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINSHIRAKAWA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.02059936523398, 36.93233108520514]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "NASUSHIOBARA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.89880371093798, 36.55866622924801]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "UTSUNOMIYA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.80467153069728, 36.31014752668296]
+            },
+            "properties": { "f_code": "AQ125", "nam": "OYAMA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.62240600585903, 35.906200408935455]
+            },
+            "properties": { "f_code": "AQ125", "nam": "OMIYA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.7720473090956, 35.7280193290898]
+            },
+            "properties": { "f_code": "AQ125", "nam": "UENO", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.76519775390602, 35.67526626586909]
+            },
+            "properties": { "f_code": "AQ125", "nam": "TOKYO", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.39019775390602, 36.137599945068395]
+            },
+            "properties": { "f_code": "AQ125", "nam": "KUMAGAYA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.1799661206526, 36.218325471921474]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "HONJOWASEDA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.01338899970347, 36.32027654749997]
+            },
+            "properties": { "f_code": "AQ125", "nam": "TAKASAKI", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.85820455922442, 36.364323191754266]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "ANNAKAHARUNA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.6299285992859, 36.340895217785345]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "KARUIZAWA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.45680236816398, 36.27453231811516]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SAKUDAIRA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.2536375267466, 36.39565445721468]
+            },
+            "properties": { "f_code": "AQ125", "nam": "UEDA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.19039916992202, 36.64226531982423]
+            },
+            "properties": { "f_code": "AQ125", "nam": "NAGANO", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.061294555664, 37.91126632690426]
+            },
+            "properties": { "f_code": "AQ125", "nam": "NIIGATA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.93989562988304, 37.64839935302728]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "TSUBAMESANJO",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.8547495954069, 37.448962379563156]
+            },
+            "properties": { "f_code": "AQ125", "nam": "NAGAOKA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.92019653320304, 37.16733169555663]
+            },
+            "properties": { "f_code": "AQ125", "nam": "URASA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.80790710449196, 36.93486785888666]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "ECHIGOYUZAWA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.97680664062497, 36.69166564941408]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "JOMOKOGEN",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.74040222168, 35.63093185424801]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINAGAWA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.61810302734403, 35.506931304931584]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINYOKOHAMA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.15310668945295, 35.256866455078054]
+            },
+            "properties": { "f_code": "AQ125", "nam": "ODAWARA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.07562615177625, 35.10425892884005]
+            },
+            "properties": { "f_code": "AQ125", "nam": "ATAMI", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.90989685058602, 35.12680053710941]
+            },
+            "properties": { "f_code": "AQ125", "nam": "MISHIMA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.66450500488298, 35.14246749877927]
+            },
+            "properties": { "f_code": "AQ125", "nam": "SHINFUJI", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.39059448242202, 34.97093200683594]
+            },
+            "properties": { "f_code": "AQ125", "nam": "SHIZUOKA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.01600240306294, 34.76764214020078]
+            },
+            "properties": { "f_code": "AQ125", "nam": "KAKEGAWA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [137.73179626464795, 34.701000213623004]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "HAMAMATSU",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [137.38020324706994, 34.76193237304692]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "TOYOHASHI",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [137.06724149719918, 34.9612435094611]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "MIKAWAANJO",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [136.88150024414097, 35.16913223266604]
+            },
+            "properties": { "f_code": "AQ125", "nam": "NAGOYA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [136.68109279047368, 35.31925751259803]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "GIFUHASHIMA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [136.28632077945696, 35.3085441323383]
+            },
+            "properties": { "f_code": "AQ125", "nam": "MAIBARA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.754013061523, 34.984802246093786]
+            },
+            "properties": { "f_code": "AQ125", "nam": "KYOTO", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.50109863281304, 34.73306655883787]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINOSAKA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.19580078125, 34.70713424682616]
+            },
+            "properties": { "f_code": "AQ125", "nam": "SHINKOBE", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [134.95701599121102, 34.66732025146479]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "NISHIAKASHI",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [134.68394470214804, 34.82549285888671]
+            },
+            "properties": { "f_code": "AQ125", "nam": "HIMEJI", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [134.47399902343804, 34.81813430786131]
+            },
+            "properties": { "f_code": "AQ125", "nam": "AIOI", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [133.91859436035196, 34.66566467285156]
+            },
+            "properties": { "f_code": "AQ125", "nam": "OKAYAMA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [133.67874145507798, 34.56599044799803]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINKURASHIKI",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [133.3644038831144, 34.48962739884901]
+            },
+            "properties": { "f_code": "AQ125", "nam": "FUKUYAMA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [133.18989562988304, 34.42986679077153]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINONOMICHI",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [133.08542790771904, 34.40173340157526]
+            },
+            "properties": { "f_code": "AQ125", "nam": "MIHARA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132.75273459125137, 34.384566059131956]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "HIGASHIHIROSHIMA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132.47348594501295, 34.400551251043154]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "HIROSHIMA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132.14964536763765, 34.16611621576802]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINIWAKUNI",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [131.80055422077416, 34.051744598626314]
+            },
+            "properties": { "f_code": "AQ125", "nam": "TOKUYAMA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [131.40130615234398, 34.0946807861328]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINYAMAGUCHI",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [131.15809631347696, 34.05253219604491]
+            },
+            "properties": { "f_code": "AQ125", "nam": "ASA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.881103515625, 33.88639831542967]
+            },
+            "properties": { "f_code": "AQ125", "nam": "KOKURA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.42039489746102, 33.590000152587876]
+            },
+            "properties": { "f_code": "AQ125", "nam": "HAKATA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.63503992954918, 32.51761462421558]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINYATSUSIRO",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.42963132712407, 32.21137046457534]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINMINAMATA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.3564683175589, 32.09361111616016]
+            },
+            "properties": { "f_code": "AQ125", "nam": "IZUMI", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.313369750977, 31.8121910095215]
+            },
+            "properties": { "f_code": "AQ125", "nam": "SENDAI", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.54020690918, 31.580867767334034]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "KAGOSHIMACHUO",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.57130432123745, 39.59199905381331]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "KAKUNODATE",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.72200012206997, 39.70026779174802]
+            },
+            "properties": { "f_code": "AQ125", "nam": "TAZAWAKO", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.97579956054702, 39.688934326171946]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHIZUKUISHI",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.15310668945304, 37.992332458496065]
+            },
+            "properties": { "f_code": "AQ125", "nam": "TAKAHATA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.14900207519503, 38.04713439941409]
+            },
+            "properties": { "f_code": "AQ125", "nam": "AKAYU", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.27929687500003, 38.151466369628935]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "KAMINOYAMAONSEN",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.369531791832, 38.359820793313496]
+            },
+            "properties": { "f_code": "AQ125", "nam": "TENDO", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.38112435428502, 38.42853920771018]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SAKURANBOHIGASHINE",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.386795043945, 38.47719955444344]
+            },
+            "properties": { "f_code": "AQ125", "nam": "MURAYAMA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.37675504748296, 38.59645102656889]
+            },
+            "properties": { "f_code": "AQ125", "nam": "OISHIDA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.79809570312497, 36.95019912719727]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "GARAYUZAWA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.9484304560257, 34.00753459683173]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINSHIMONOSEKI",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.49164939380455, 33.36964281046738]
+            },
+            "properties": { "f_code": "AQ125", "nam": "SHINTOSU", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.50079345125687, 33.32026672872661]
+            },
+            "properties": { "f_code": "AQ125", "nam": "KURUME", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.4913024866205, 33.17778636173721]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "CHIKUGOFUNAGOYA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.48858023429045, 33.0713635172126]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINOMUTA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.57360143276003, 32.942509167064486]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINTAMANA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.68795591962834, 32.790945655872804]
+            },
+            "properties": { "f_code": "AQ125", "nam": "KUMAMOTO", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.35809325689831, 36.84619902906201]
+            },
+            "properties": { "f_code": "AQ125", "nam": "IIYAMA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.25027919277, 37.079612184279725]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "JOETSUMYOKO",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [137.86184350067515, 37.042133555376985]
+            },
+            "properties": { "f_code": "AQ125", "nam": "ITOIGAWA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [137.48124161930537, 36.874217251824746]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "KUROBEUNAZUKIONSEN",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [137.21340041129997, 36.70160244939359]
+            },
+            "properties": { "f_code": "AQ125", "nam": "TOYAMA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [137.01081299382463, 36.72703898386209]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINTAKAOKA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [136.64790344328935, 36.57833480920414]
+            },
+            "properties": { "f_code": "AQ125", "nam": "KANAZAWA", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [141.15408062651977, 40.71989336308826]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHICHINOHETOWADA",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.6934809416922, 40.82800996019154]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINAOMORI",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.51523922960678, 41.14521330055345]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "OKUTSUGARUIMABETSU",
+                "soc": "JPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.4339304244496, 41.67761954480619]
+            },
+            "properties": { "f_code": "AQ125", "nam": "KIKONAI", "soc": "JPN" }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.6465799706366, 41.90539324784762]
+            },
+            "properties": {
+                "f_code": "AQ125",
+                "nam": "SHINHAKODATEHOKUTO",
+                "soc": "JPN"
+            }
+        }
+    ]
+}
+

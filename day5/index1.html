@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>d3Chart1</title>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+    <p class="title">StackBarChart - Universities</p>
+<div>Sort By:
+    <select id="selectScore">
+        <option value="scores_overall">scores_overall</option>
+        <option value="scores_citations">scores_citations</option>
+        <option value="scores_industry_income">scores_industry_income</option>
+        <option value="scores_international_outlook">scores_international_outlook</option>
+        <option value="scores_research">scores_research</option>
+        <option value="scores_teaching">scores_teaching</option>
+    </select>
+    <select id="selectOrder">
+        <option>Descending</option>
+        <option>Ascending</option>
+    </select>
+</div>
+        <svg id="container"></svg>
+ 
+    
+    <script src="StackBarChart.js" type="module" defer></script>
+</body>
+</html>
